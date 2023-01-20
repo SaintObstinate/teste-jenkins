@@ -2,8 +2,8 @@
   "name": "estudo-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/gustavocastrow/estudo-api.git",
-  "author": "gustavocastro <gustavocastrocs@gmail.com>",
+  "repository": "https://github.com/SaintObstinate/teste-jenkins",
+  "author": "Saint Obstinate",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
